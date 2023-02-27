@@ -1,3 +1,4 @@
+
 # LAB - Class 2
 
 ## Project: Basic Express Server
@@ -41,3 +42,4 @@ for now I have none and do not require one
 #### UML
 
 ![lab 2 whiteboard](./assets/lab-2.png)
+
